@@ -10,7 +10,6 @@ This is a simple portfolio website project created to showcase your skills, proj
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
